@@ -5,5 +5,30 @@ body {
 
 /* rule-set #2: Everything within a css-classes class will have a lightgray background. */
 .css-classes {
-    background-color: lightgray;
+    background-color: lightpink;
+}
+
+/* rule-set #3 */
+#number-one{
+    color: blue
+}
+
+#one{
+    border: 20px solid red;
+    margin: 50px 50px 50px 50px;
+/*
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+*/
+    padding: 20px 20px 20px;
+}
+.css-classes{
+    margin: 5px;
+}
+/* 4 */
+
+h3{
+    font-family: "Arial, Helvetica, sans-serif;
 }
