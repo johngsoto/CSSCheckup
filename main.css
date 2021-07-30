@@ -1,0 +1,9 @@
+/* rule-set #1: Everything within the body tag will have a blue background. */
+body {
+    background-color: lightgrey;
+}
+
+/* rule-set #2: Everything within a css-classes class will have a lightgray background. */
+.css-classes {
+    background-color: lightgray;
+}
